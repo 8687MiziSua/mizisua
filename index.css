@@ -1,0 +1,62 @@
+img {
+  width: 100%;
+  height: auto;
+   border: 5px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px 0px purple;
+}
+
+body {
+    background-image: url("./pics/bg.gif");
+
+
+}
+
+audio {
+  width: 300px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px 0px magenta;
+
+}
+
+
+.magenta {
+    color: magenta;
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+   font-size: 30px;
+    width: 100%;
+  height: auto;
+}
+
+.pink {
+    color: pink;
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+    font-size: 30px;
+     width: 100%;
+  height: auto;
+  
+}
+
+.purple {
+    color: purple;
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+   font-size: 30px;
+    width: 100%;
+  height: auto;
+}
+
+.darkpink {
+    color: darkmagenta;
+     text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+   font-size: 30px;
+    width: 100%;
+  height: auto;
+}
+
+h3 {
+    color: red;
+     text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+  width: 100%;
+  height: auto;
+}
